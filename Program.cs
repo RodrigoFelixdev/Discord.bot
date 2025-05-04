@@ -1,4 +1,4 @@
-﻿
+# ESSE CÓDIGO POSSUI FALHAS E SÓ ESTÁ AQUI PARA APENÁS DE MONSTRAR CURRICÚLOS﻿
 
 using System;
 using System.Threading.Tasks;
