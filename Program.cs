@@ -1,4 +1,4 @@
-﻿//https://discord.com/oauth2/authorize?client_id=1368428590177325127&permissions=8&integration_type=0&scope=bot
+﻿
 
 using System;
 using System.Threading.Tasks;
